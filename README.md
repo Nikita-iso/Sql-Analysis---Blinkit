@@ -1,1 +1,3 @@
-# Sql-Analysis---Blinkit
+# Sql-Analysis---Blinkit  
+
+The **Blinkit SQL** presentation showcases how SQL is used to analyze and optimize sales data. It covers essential SQL queries to track sales trends, identify best-selling items, compare sales across different outlet types, and examine factors like item fat content and customer ratings. By leveraging SQL, the study helps in making data-driven decisions to improve business performance. Developed by **Nikita Tripathi, Akul Garg, Bhavyanshu Jain, Bharti Gaur, and Muskan Chouhan**, this project demonstrates the power of SQL in managing and understanding sales data effectively.
